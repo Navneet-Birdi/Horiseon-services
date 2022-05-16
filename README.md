@@ -23,9 +23,10 @@ THEN I find a concise, descriptive title
 
 
 Changes Made:-
-Added some Semantic elements to increase accessibility and elements follow a logical structure
-Added some alt attributes to images so that if images cannot displyed then this tag shows an alternate text
-Added comments on both html and css file to organize sections
+
+Added some Semantic elements to increase accessibility and elements follow a logical structure.
+Added some alt attributes to images so that if images cannot displyed then this tag shows an alternate text.
+Added comments on both html and css file to organize sections.
 Both html and css files follows a logical structure.
 ![screenshot1](https://user-images.githubusercontent.com/103732777/168478826-86de911e-528d-43af-b2a7-2f30e911802d.jpg)
 
