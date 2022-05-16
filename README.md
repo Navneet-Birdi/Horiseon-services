@@ -28,7 +28,10 @@ Added some Semantic elements to increase accessibility and elements follow a log
 Added some alt attributes to images so that if images cannot displyed then this tag shows an alternate text.
 Added comments on both html and css file to organize sections.
 Both html and css files follows a logical structure.
+
+
 ![screenshot1](https://user-images.githubusercontent.com/103732777/168514094-4072e568-a1a6-4874-bcc8-111f71fa8dcc.jpg)
 
 
-![screenshot2](https://user-images.githubusercontent.com/103732777/168478877-1ceb268b-fd67-462c-af4c-0da259fc563a.jpg)
+![screenshot2](https://user-images.githubusercontent.com/103732777/168514219-9eb88bee-cc75-46e6-93bd-b1db788819b7.jpg)
+
